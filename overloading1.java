@@ -6,7 +6,7 @@ class A
   {
     a=100.50; b=43.25; c="gupta";
   }
-    A()
+   default A()
     {
         a=100; b=45.32; c="abhi";
     }
